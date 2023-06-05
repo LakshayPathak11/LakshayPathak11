@@ -35,6 +35,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaypathak11&" alt="lakshaypathak11" /></p>
 
 
-<img align="centre" alt="coding" width="1000" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
+<img align="centre" alt="coding" width="1000" src="https://gifdb.com/images/high/ai-healthcare-humanoid-o5gzncopa62n1f6e.gif">
 
 
