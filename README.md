@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-pathak-00288b243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshay-pathak-00288b243/" height="30" width="40" /></a>
 </p>
 
-<img align="centre" alt="coding" width="1000" src="https://gifdb.com/images/high/ai-humanoid-dace-spinning-vtwfyek9t4e3n076.webp">
+<img align="centre" alt="coding" width="800" src="https://gifdb.com/images/high/ai-humanoid-dace-spinning-vtwfyek9t4e3n076.webp">
 
 
 <h3 align="left">Languages and Tools:</h3>
