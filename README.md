@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lakshay pathak</h1>
 <h3 align="center">A Passionate Data Science Student From India</h3>
 
-<img align="centre" alt="coding" width="600" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
+<img align="centre" alt="coding" width="800" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 
 
 
